@@ -5,4 +5,4 @@
 
 Imagens "Wolf" e "Sheep" feitas por Lumy
 
-    (nota: o jogo não se apresenta em estado funcional devido a dificuldades)
+    (nota: o jogo não se apresenta em estado 100% funcional devido a dificuldades, apenas inicia o board e os quadrados das opções)
